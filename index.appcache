@@ -3,11 +3,8 @@ CACHE MANIFEST
 # rev 2
 
 CACHE:
-/index.html
-/scripts.js
-
-FALLBACK:
-/ /offline.html
+index.html
+scripts.js
 
 NETWORK:
 *
